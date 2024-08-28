@@ -7,9 +7,7 @@ import SidebarOpenButton from "../Navbar/SidebarOpenButton";
 import SidebarCloseButton from "../Navbar/SidebarCloseButton";
 import SidebarFooter from "./SidebarFooter";
 
-type Props = {};
-
-function Sidebar({}: Props) {
+function Sidebar() {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleSidebar = () => {
