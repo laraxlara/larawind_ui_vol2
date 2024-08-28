@@ -1,0 +1,38 @@
+{
+  "components": {
+    "features": [
+      {
+        "id": 1,
+        "slug": "feature-component-1",
+        "name": "Feature Component",
+        "text": "Description",
+        "category": "Feature",
+        "components": "features",
+        "imgPath": "/images/wireframes/feature1.png",
+        "docPath": "../docs/features/feature1.html"
+      },
+      {
+        "id": 2,
+        "slug": "feature-component-2",
+        "name": "Feature Component",
+        "text": "Description",
+        "category": "Feature",
+        "components": "features",
+        "imgPath": "/images/wireframes/feature2.png",
+        "docPath": "../docs/features/feature2.html"
+      }
+    ],
+    "heros": [
+      {
+        "id": 1,
+        "slug": "hero-component-1",
+        "name": "Hero Component",
+        "text": "Description",
+        "category": "Hero",
+        "components": "heros",
+        "imgPath": "/images/wireframes/hero1.png",
+        "docPath": "../docs/heros/hero1.html"
+      }
+    ]
+  }
+}
