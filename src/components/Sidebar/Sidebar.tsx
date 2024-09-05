@@ -3,8 +3,8 @@ import Image from "next/image";
 
 import logo from "../../../public/images/logo.png";
 import Navbar from "../Navbar/Navbar";
-import SidebarOpenButton from "../Navbar/SidebarOpenButton";
-import SidebarCloseButton from "../Navbar/SidebarCloseButton";
+import SidebarOpenButton from "./SidebarOpenButton";
+import SidebarCloseButton from "./SidebarCloseButton";
 import SidebarFooter from "./SidebarFooter";
 
 function Sidebar() {

@@ -12,13 +12,13 @@ export const navbarLinks: NavbarLink[] = [
   {
     id: 1,
     name: "Hero",
-    href: "#",
+    href: "/heros",
     svg: NavLinkIcon,
   },
   {
     id: 2,
     name: "Header",
-    href: "#",
+    href: "/features",
     svg: NavLinkIcon,
   },
   {

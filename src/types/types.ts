@@ -2,7 +2,7 @@ export type ComponentData = {
   id: number;
   name: string;
   slug: string;
-  text: string;
+  description: string;
   category: string;
   components: string;
   imgPath: string;
